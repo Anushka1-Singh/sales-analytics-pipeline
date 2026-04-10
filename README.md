@@ -3,6 +3,11 @@
 This is my data analytics project where I built a complete pipeline 
 from raw sales data to an interactive Power BI dashboard.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+
 ## What this project does
 
 - Takes raw sales data from an Excel file
