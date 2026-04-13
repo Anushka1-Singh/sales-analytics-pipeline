@@ -8,6 +8,9 @@ from raw sales data to an interactive Power BI dashboard.
 ![Dashboard](dashboard.png)
 
 
+### Page 2 - ML Model Prediction
+![ML Model Prediction](ml_model_prediction.png)
+
 ## What this project does
 
 - Takes raw sales data from an Excel file
